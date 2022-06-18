@@ -1,0 +1,15 @@
+.inputArea {
+  text-align: center;
+  border: 1px solid;
+  margin: 10px;
+  width: 50%;
+}
+
+.nameTxt{
+    margin: 5px;
+}
+
+.enterBtn{
+    margin: 5px;
+}
+
